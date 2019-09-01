@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/h/Downloads/BlueTooth/app/build/intermediates/res/merged/debug/drawable-hdpi_bg.jpg.flat",
+        "source": "/Users/h/Downloads/BlueTooth/app/src/main/res/drawable-hdpi/bg.jpg"
+    },
+    {
+        "merged": "/Users/h/Downloads/BlueTooth/app/build/intermediates/res/merged/debug/drawable-hdpi_school.jpg.flat",
+        "source": "/Users/h/Downloads/BlueTooth/app/src/main/res/drawable-hdpi/school.jpg"
+    },
+    {
+        "merged": "/Users/h/Downloads/BlueTooth/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/h/Downloads/BlueTooth/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/h/Downloads/BlueTooth/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/h/Downloads/BlueTooth/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/h/Downloads/BlueTooth/app/build/intermediates/res/merged/debug/drawable-hdpi_logo.jpg.flat",
+        "source": "/Users/h/Downloads/BlueTooth/app/src/main/res/drawable-hdpi/logo.jpg"
+    },
+    {
+        "merged": "/Users/h/Downloads/BlueTooth/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/h/Downloads/BlueTooth/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/h/Downloads/BlueTooth/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/h/Downloads/BlueTooth/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/h/Downloads/BlueTooth/app/build/intermediates/res/merged/debug/layout_set_align_dialog.xml.flat",
+        "source": "/Users/h/Downloads/BlueTooth/app/src/main/res/layout/set_align_dialog.xml"
+    },
+    {
+        "merged": "/Users/h/Downloads/BlueTooth/app/build/intermediates/res/merged/debug/layout_device_name.xml.flat",
+        "source": "/Users/h/Downloads/BlueTooth/app/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/Users/h/Downloads/BlueTooth/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/h/Downloads/BlueTooth/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/h/Downloads/BlueTooth/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/h/Downloads/BlueTooth/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/h/Downloads/BlueTooth/app/build/intermediates/res/merged/debug/layout_device_list.xml.flat",
+        "source": "/Users/h/Downloads/BlueTooth/app/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/Users/h/Downloads/BlueTooth/app/build/intermediates/res/merged/debug/layout_button_dialog.xml.flat",
+        "source": "/Users/h/Downloads/BlueTooth/app/src/main/res/layout/button_dialog.xml"
+    },
+    {
+        "merged": "/Users/h/Downloads/BlueTooth/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/h/Downloads/BlueTooth/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/h/Downloads/BlueTooth/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/h/Downloads/BlueTooth/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/h/Downloads/BlueTooth/app/build/intermediates/res/merged/debug/layout_show_main.xml.flat",
+        "source": "/Users/h/Downloads/BlueTooth/app/src/main/res/layout/show_main.xml"
+    },
+    {
+        "merged": "/Users/h/Downloads/BlueTooth/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/h/Downloads/BlueTooth/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/h/Downloads/BlueTooth/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/h/Downloads/BlueTooth/app/src/main/res/menu/main.xml"
+    }
+]

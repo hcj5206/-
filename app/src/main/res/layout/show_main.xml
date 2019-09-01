@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:hapticFeedbackEnabled="false"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textView3"
+            style="@android:style/Widget.Material.TextView"
+            android:layout_width="294dp"
+            android:layout_height="match_parent"
+            android:text="孤独患者V1.00"
+            android:textColor="#EE000000"
+            android:textSize="40sp"
+            android:textStyle="normal|bold|italic" />
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="感冒生病打针吃药，\n牢牢记住生病代价!"
+        android:textColor="#4CAF50"
+        android:textSize="40sp" />
+    <View
+    android:layout_width="fill_parent"
+    android:layout_marginTop="10dp"
+    android:layout_height="1dp"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    android:background="#aa000000" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tx0"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="滴数速度："
+            android:textColor="#CDDC39"
+            android:textSize="45sp" />
+
+        <TextView
+            android:id="@+id/TX_Speed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="正常"
+            android:textColor="#000000"
+            android:textSize="35sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tx1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="点滴状态："
+            android:textColor="#CDDC39"
+            android:textSize="45sp" />
+
+        <TextView
+            android:id="@+id/TX_State"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="正常"
+            android:textColor="#000000"
+            android:textSize="35sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tx2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="滴数上限："
+            android:textColor="#CDDC39"
+            android:textSize="45sp" />
+
+        <TextView
+            android:id="@+id/TX_Uplimit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="180"
+            android:textColor="#000000"
+            android:textSize="35sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tx3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="滴数下限："
+            android:textColor="#CDDC39"
+            android:textSize="45sp" />
+
+        <TextView
+            android:id="@+id/TX_Downlimit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="40"
+            android:textColor="#000000"
+            android:textSize="35sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tx4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="连接状态："
+            android:textColor="#CDDC39"
+            android:textSize="45sp" />
+
+        <TextView
+            android:id="@+id/TX_ConnectState"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="未连接"
+            android:textColor="#FF0000"
+            android:textSize="35sp" />
+    </LinearLayout>
+
+</LinearLayout>
